@@ -10,3 +10,5 @@ twitter_username: NoTwitter
 github_username:  sk
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal
